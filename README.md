@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=👋+Olá!+Eu+sou+Aldo+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer+Full+Stack&descAlignY=51%&descAlign=50%"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=👋+Olá!+Eu+sou+Aldo+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer+Full+Stack&descAlignY=51%&descAlign=53%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1300&lines=HELLO,+MY+NAME+is+Aldo+Souza;I'm+27+years+old;I+from+Brasil;I+study+Analysis+and+Systems+Development+at+Unama+University;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
