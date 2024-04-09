@@ -1,4 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=👋+Olá!+Eu+sou+Aldo+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer+Full+Stack&descAlignY=51%&descAlign=53%"/>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1200&height=20&lines=Hello,+my+name+is+Aldo+Souza;I'm+27+years+old;I+from+Brasil;I'm+Graduated+in+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  
 <hr>
 
 ### Technologies:
@@ -17,9 +20,10 @@
 
 <div align="center">  
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=500&height=195&lines=Hello,+my+name+is+Aldo+Souza;I'm+27+years+old;I+from+Brasil;I'm+Graduated+in+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldocsouza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldocsouza&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=30,00bfbf,904e95" />
+  
+  <img width="41%" height="195px" src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" />
+    
 </div>
 <!--<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aldocsouza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Aldo Souza github stats"/> -->
 <hr>
