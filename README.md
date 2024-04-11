@@ -30,7 +30,7 @@
 <div align="center">  
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldocsouza&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=30,00bfbf,904e95" />
-  <img width="400px" height="195px" src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" />
+  <img width="49%" height="195px" src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" />
     
 </div>
 <!--<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aldocsouza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Aldo Souza github stats"/> -->
